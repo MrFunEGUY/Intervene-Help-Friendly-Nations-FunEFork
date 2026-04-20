@@ -9,49 +9,49 @@
 l_korean:
 # l_japanese:
 
- edict_intervene_help_friendly_nation: "Aid Ally in §RWar§!"
- edict_intervene_help_friendly_nation_desc: "It'll cost us a lot of political capital, but if we find it to be beneficial to the national interest, we can aid our allies in their wars."
- edict_intervene_help_friendly_nation_federated: "Aid Ally in §RWar§!"
- edict_intervene_help_friendly_nation_federated_desc: "It'll cost us a lot of political capital, but if we find it to be beneficial to the federation's interests, we can aid our allies in their wars."
+ edict_intervene_help_friendly_nation: "동맹의 §R전쟁§! 돕기"
+ edict_intervene_help_friendly_nation_desc: "막대한 정치적 자본이 소비되겠지만, 우리의 국익에 도움이 된다면, 우리는 동맹국의 전쟁을 도울 수 있습니다."
+ edict_intervene_help_friendly_nation_federated: "동맹의 §R전쟁§! 돕기"
+ edict_intervene_help_friendly_nation_federated_desc: "막대한 정치적 자본이 소비되겠지만, 연방의 이익에 도움이 된다면, 우리는 동맹국의 전쟁을 도울 수 있습니다."
  
- intervene.1000.name: "Military Aid"
- intervene.1000.desc: "This is a list of countries, that we have at least decent relations with, that are leading wars. The result of any war in the galaxy could have consequences for the §H[root.GetName]§!, so if we find that a particular outcome is preferable, we should work to ensure it. We can join any of these countries in their wars, in order to support their efforts.\n\nIf a country is involved in more than one war, we will choose which war to join."
+ intervene.1000.name: "군사적 지원"
+ intervene.1000.desc: "우리와 최소한 적당한 관계를 맺고 있는, 전쟁을 이끌고 있는 나라들의 목록입니다. 은하게 안의 어떤 전쟁의 결과도 §H[root.GetName]§!에게 파급효과를 미칠 수 있기 때문에, 우리가 어떤 특정한 결과를 얻기를 원한다면, 그 결과를 얻기 위해 노력야 합니다. 우리는 이들 중 어느 나라의 전쟁에도 참전해서 그들의 노력을 지원할 수 있습니다.\n\n여러 개의 전쟁을 치르고 있는 나라가 있다면, 어떤 전쟁에 참가할지 선택해야 합니다."
 
- intervene.1000.intervene_1: "§H[intervene_friendly_nation_1.GetName]§! | Active Wars: §Y[intervene_friendly_nation_1.friendly_nation_war_count]§!"
- intervene.1000.intervene_2: "§H[intervene_friendly_nation_2.GetName]§! | Active Wars: §Y[intervene_friendly_nation_2.friendly_nation_war_count]§!"
- intervene.1000.intervene_3: "§H[intervene_friendly_nation_3.GetName]§! | Active Wars: §Y[intervene_friendly_nation_3.friendly_nation_war_count]§!"
- intervene.1000.intervene_4: "§H[intervene_friendly_nation_4.GetName]§! | Active Wars: §Y[intervene_friendly_nation_4.friendly_nation_war_count]§!"
- intervene.1000.intervene_5: "§H[intervene_friendly_nation_5.GetName]§! | Active Wars: §Y[intervene_friendly_nation_5.friendly_nation_war_count]§!"
- intervene.1000.intervene_6: "§H[intervene_friendly_nation_6.GetName]§! | Active Wars: §Y[intervene_friendly_nation_6.friendly_nation_war_count]§!"
- intervene.1000.intervene_7: "§H[intervene_friendly_nation_7.GetName]§! | Active Wars: §Y[intervene_friendly_nation_7.friendly_nation_war_count]§!"
- intervene.1000.intervene_8: "§H[intervene_friendly_nation_8.GetName]§! | Active Wars: §Y[intervene_friendly_nation_8.friendly_nation_war_count]§!"
- intervene.1000.intervene_9: "§H[intervene_friendly_nation_9.GetName]§! | Active Wars: §Y[intervene_friendly_nation_9.friendly_nation_war_count]§!"
- intervene.1000.intervene_10: "§H[intervene_friendly_nation_10.GetName]§! | Active Wars: §Y[intervene_friendly_nation_10.friendly_nation_war_count]§!"
+ intervene.1000.intervene_1: "§H[intervene_friendly_nation_1.GetName]§! | §Y[intervene_friendly_nation_1.friendly_nation_war_count]§!개의 전쟁을 수행중입니다."
+ intervene.1000.intervene_2: "§H[intervene_friendly_nation_2.GetName]§! | §Y[intervene_friendly_nation_2.friendly_nation_war_count]§!개의 전쟁을 수행중입니다."
+ intervene.1000.intervene_3: "§H[intervene_friendly_nation_3.GetName]§! | §Y[intervene_friendly_nation_3.friendly_nation_war_count]§!개의 전쟁을 수행중입니다."
+ intervene.1000.intervene_4: "§H[intervene_friendly_nation_4.GetName]§! | §Y[intervene_friendly_nation_4.friendly_nation_war_count]§!개의 전쟁을 수행중입니다."
+ intervene.1000.intervene_5: "§H[intervene_friendly_nation_5.GetName]§! | §Y[intervene_friendly_nation_5.friendly_nation_war_count]§!개의 전쟁을 수행중입니다."
+ intervene.1000.intervene_6: "§H[intervene_friendly_nation_6.GetName]§! | §Y[intervene_friendly_nation_6.friendly_nation_war_count]§!개의 전쟁을 수행중입니다."
+ intervene.1000.intervene_7: "§H[intervene_friendly_nation_7.GetName]§! | §Y[intervene_friendly_nation_7.friendly_nation_war_count]§!개의 전쟁을 수행중입니다."
+ intervene.1000.intervene_8: "§H[intervene_friendly_nation_8.GetName]§! | §Y[intervene_friendly_nation_8.friendly_nation_war_count]§!개의 전쟁을 수행중입니다."
+ intervene.1000.intervene_9: "§H[intervene_friendly_nation_9.GetName]§! | §Y[intervene_friendly_nation_9.friendly_nation_war_count]§!개의 전쟁을 수행중입니다."
+ intervene.1000.intervene_10: "§H[intervene_friendly_nation_10.GetName]§! | §Y[intervene_friendly_nation_10.friendly_nation_war_count]§!개의 전쟁을 수행중입니다."
  
- intervene.1000.desist: "We won't get involved in someone else's war."
+ intervene.1000.desist: "우리는 외국간의 전쟁에 개입하지 않을 것입니다."
  
- intervene_cooldown_text: "We have to wait §Y1 year§! before considering another intervention."
- intervene_recent_intervention_timed: "Recent Intervention"
- no_valid_intervene_country: "There are no countries that we can assist at the moment."
- 
- intervene_opinion_military_help: "Provided Military Aid"
- 
- unity_fail_text_intervene: "§RNot enough§! §HUnity§!"
- 
- intervene_friendly_nations: "Intervene Modifier"
+ intervene_cooldown_text: "우리는 또다른 전쟁에 개입하기 위해 §Y1년§!을 기다려야 합니다."
+ intervene_recent_intervention_timed: "최근 개입"
+ no_valid_intervene_country: "우리가 현재 지원할 수 있는 국가가 없습니다."
 
- intervene_no_valid_country: "§RNo Valid Country§! to Assist"
+ intervene_opinion_military_help: "군사적 지원 제공"
+ 
+ unity_fail_text_intervene: "§H통합§!이 §R부족§!합니다."
+
+ intervene_friendly_nations: "개입 수정치"
+
+ intervene_no_valid_country: "도울 수 있는 나라가 §R없습니다§!."
 
  intervene.2000.name: "$intervene.1000.name$"
- intervene.2000.desc: "The §Y[event_target:friendly_multiple_wars.GetAdj]s§! are involved in multiple wars. Which war shall we join?"
+ intervene.2000.desc: "§Y[event_target:friendly_multiple_wars.GetAdj]s§!는 여러 전쟁을 치르고 있습니다. 어느 전쟁에 참가하실 것입니까?"
 
- intervene.2000.intervene_1: "The §Y[intervene_friendly_war_1.GetName]§!."
- intervene.2000.intervene_2: "The §Y[intervene_friendly_war_2.GetName]§!."
- intervene.2000.intervene_3: "The §Y[intervene_friendly_war_3.GetName]§!."
- intervene.2000.intervene_4: "The §Y[intervene_friendly_war_4.GetName]§!."
- intervene.2000.intervene_5: "The §Y[intervene_friendly_war_5.GetName]§!."
- intervene.2000.intervene_6: "The §Y[intervene_friendly_war_6.GetName]§!."
- intervene.2000.intervene_7: "The §Y[intervene_friendly_war_7.GetName]§!."
- intervene.2000.intervene_8: "The §Y[intervene_friendly_war_8.GetName]§!."
- intervene.2000.intervene_9: "The §Y[intervene_friendly_war_9.GetName]§!."
- intervene.2000.intervene_10: "The §Y[intervene_friendly_war_10.GetName]§!."
+ intervene.2000.intervene_1: "§Y[intervene_friendly_war_1.GetName]§!."
+ intervene.2000.intervene_2: "§Y[intervene_friendly_war_2.GetName]§!."
+ intervene.2000.intervene_3: "§Y[intervene_friendly_war_3.GetName]§!."
+ intervene.2000.intervene_4: "§Y[intervene_friendly_war_4.GetName]§!."
+ intervene.2000.intervene_5: "§Y[intervene_friendly_war_5.GetName]§!."
+ intervene.2000.intervene_6: "§Y[intervene_friendly_war_6.GetName]§!."
+ intervene.2000.intervene_7: "§Y[intervene_friendly_war_7.GetName]§!."
+ intervene.2000.intervene_8: "§Y[intervene_friendly_war_8.GetName]§!."
+ intervene.2000.intervene_9: "§Y[intervene_friendly_war_9.GetName]§!."
+ intervene.2000.intervene_10: "§Y[intervene_friendly_war_10.GetName]§!."
